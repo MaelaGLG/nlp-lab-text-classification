@@ -1,3 +1,9 @@
+
+# Mon notebook du TP est TextClassification_LeMonde
+
+
+
+
 # NLP Lab on text classification
 
 ## if you want to run the notebook locally
